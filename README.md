@@ -1,2 +1,3 @@
 # Machine Learning with Python
-- https://www.coursera.org/learn/machine-learning-with-python
+- Machine Learning Labs (programming assignments) https://www.coursera.org/learn/machine-learning-with-python by IBM
+- Offered by coursera
